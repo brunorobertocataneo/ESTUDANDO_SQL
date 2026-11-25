@@ -1,27 +1,11 @@
-# 📊 Estudos de SQL
+# Estudos de SQL
 
-Repositório dedicado aos meus estudos de **SQL**, abordando conceitos fundamentais de banco de dados relacional.
+Repositório de exercícios de modelagem e SQL para banco de dados relacional. Os estudos incluem criação de tabelas, chaves, operações de consulta e alteração de dados, filtros e junções.
 
-## 📚 Conteúdos
+## Exemplo · Ficha médica
 
-- Criação de banco e tabelas  
-- Tipos de dados  
-- Chaves primárias e estrangeiras  
-- Comandos SQL: SELECT, INSERT, UPDATE, DELETE  
-- Filtros e ordenação (WHERE, ORDER BY)  
-- JOIN entre tabelas  
-- Noções de normalização  
+- [Script SQL](FICHA_MEDICA/FICHA_MEDICA.sql) — criação do banco de estudo e das tabelas.
+- [Modelo do MySQL Workbench](FICHA_MEDICA/FICHA_MEDICA.mwb) — arquivo editável de modelagem.
+- [Diagrama em PDF](FICHA_MEDICA/FICHA_MEDICA_DIAGRAMA.pdf) — visualização do modelo.
 
-## 🎯 Objetivo
-
-Consolidar conhecimentos em SQL, praticar modelagem de dados e resolver exercícios acadêmicos.
-
-## 🛠️ Tecnologias
-
-- MySQL / SQL Server  
-- MySQL Workbench / SSMS  
-
-## 👨‍💻 Autor
-
-Bruno Roberto Cataneo  
-Estudante de Ciência da Computação# ESTUDANDO_SQL
+Para explorar o exemplo, abra o script no MySQL Workbench e execute-o em uma instância local de estudo.
